@@ -41,7 +41,7 @@ You can compare these designs to the refence designs on the /image folder.
 
 ### Links 
 
-- Live Site URL: [Add live site URL here](https://drzubby.github.io/3-column-card-layout-practice/)
+- Live Site URL: [3_column layout](https://drzubby.github.io/3-column-card-layout-practice/)
 
 ### Built with
 
