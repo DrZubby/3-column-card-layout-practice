@@ -39,10 +39,9 @@ Mobile view contd...
 You can compare these designs to the refence designs on the /image folder.
 
 
-### Links [to be added later)
+### Links 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://drzubby.github.io/3-column-card-layout-practice/)
 
 ### Built with
 
